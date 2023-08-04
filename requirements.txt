@@ -1,0 +1,4 @@
+GitPython
+openai
+wikipedia
+langchain==0.0.100
